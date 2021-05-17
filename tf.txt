@@ -1,0 +1,4 @@
+this is a new file
+I am testing the hash table
+hash tables are nice
+don't you love a good hash table?
